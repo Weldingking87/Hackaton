@@ -1,49 +1,36 @@
-# This is Search Engine Optimization. It'll help your website look better on search.
-seo:
-  title:       "Ann Arbor | 16-18 February 2023"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+# Welcome to 2Marines Hackathon 2024! 🚀
 
-# Event information.
-event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
 
-  trust_badge:
-    year:   "2024"  # season year
-    region: "na"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+About
+2Marines Hackathon is back, bigger, and better! Join us from February 16-18, 2024, in Ann Arbor, MI, for an incredible hacking experience. We bring together tech enthusiasts, innovators, and problem solvers to address homelessness in our community.
 
-  hero:
-    links:
-      - text: "Apply"    
-          redirect_uri: 
-      - text: "Sponsor"
-        href: 
+What to Expect
+36 hours of non-stop hacking.
+Engage with industry experts and mentors.
+Exciting challenges and prizes.
+Networking opportunities.
+Make a positive impact on our community!
+Event Details
+Date: February 16-18, 2024
+Location: Ann Arbor, MI
+🌐 Important Links
+Register Now!
+Sponsorship Prospectus
+Donate Now!
+Download Event Flyer
+Become a Sponsor
+Support innovation, talent, and community development. Check out our Sponsorship Prospectus for exciting opportunities!
 
-  about:
-    description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+Connect With Us
+Follow us on social media for updates, challenges, and more!
 
-  # Info Sections
-  info:
-    sections:
-      - image: "images/image1.png"
-        title: "LEARN."
-        description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image2.png"
-        title: "BUILD."
-        description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image3.png"
-        title: "SHARE."
-        description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+Twitter
+Facebook
+LinkedIn
+Spread the Word
+Help us make a difference! Share our event flyer with your network.
+
+Let's Hack for Change! 🌟
 
   # Frequently asked questions.
   faq:
