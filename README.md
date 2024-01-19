@@ -76,4 +76,4 @@ faq:
 # This is the message you'll receive once you've registered.
 register:
   message: 
-    You'll receive more information closer to the hackathon.
+    Look OUt for a follow-up email with all your event details.
