@@ -11,7 +11,7 @@
 - Make a positive impact on our community!
 
 ## Event Details
-- **Date:** February 16-18, 2024
+- **Date:** February 16th 5pm to 18th 12pm, 2024
 - **Location:** 3200 Boardwalk St Ann Arbor, MI 48108/Online
 
 ## 🌐 Important Links
