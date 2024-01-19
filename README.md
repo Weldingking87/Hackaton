@@ -17,7 +17,7 @@
 ## 🌐 Important Links
 - [**Register Now!**](https://docs.google.com/forms/d/e/1FAIpQLSeKOeZcLR47BoF6inKEPY5D_R6lpsUIg0NYzLKo59EXcWD3-Q/viewform?usp=sharing)
 - [**Sponsorship Prospectus**](https://drive.google.com/file/d/1izZn9kRDcCj3gP_WuAzzlajKFzzuKrNA/view?usp=sharing)
-- [**Donate Now!**](insert_donorbox_donation_button_link_here)
+- [**Donate Now!**](https://donorbox.org/hacking-homelessness)
 - [**Download Event Flyer**](https://drive.google.com/file/d/1JQyoTueS_1BIQp51jD6PYSmEirw1g-9m/view?usp=sharing)
 
 ## Become a Sponsor
