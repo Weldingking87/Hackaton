@@ -12,7 +12,7 @@
 
 ## Event Details
 - **Date:** February 16-18, 2024
-- **Location:** Ann Arbor, MI
+- **Location:** 3200 Boardwalk St Ann Arbor, MI 48108/Online
 
 ## 🌐 Important Links
 - [**Register Now!**](https://docs.google.com/forms/d/e/1FAIpQLSeKOeZcLR47BoF6inKEPY5D_R6lpsUIg0NYzLKo59EXcWD3-Q/viewform?usp=sharing)
@@ -68,11 +68,7 @@ faq:
       have graduated within the past 12 months are eligible to attend.
   - question: "Where is the event?"
     answer: >
-      The event is being hosted at [insert venue location here].
-  - question: "What is Major League Hacking?"
-    answer: >
-      Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-      We work with over 200 Member Events and empower over 70,000 students every year.
+      The event is being hosted at 3200 Boardwalk St Ann Arbor, MI 48108.
   - question: "Is there a code of conduct?"
     answer: >
       Yes there is. We enforce it very strongly. You can [find it here](https://docs.google.com/document/d/1XhHb-IlvWUVNZQPaW57WnmME4l5XWYc2KIfBLczVJjA/edit?usp=sharing).
