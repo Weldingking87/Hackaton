@@ -27,6 +27,7 @@ Support innovation, talent, and community development. Check out our [Sponsorshi
 ## Connect With Us
 Follow us on social media for updates, challenges, and more!
 - [Facebook](https://www.facebook.com/2Marines/)
+- - [Youth Facebook](https://www.facebook.com/WestWillowFarmersMarket)
 
 ## Spread the Word
 Help us make a difference! Share our [event flyer](https://drive.google.com/file/d/1JQyoTueS_1BIQp51jD6PYSmEirw1g-9m/view?usp=sharing) with your network.
