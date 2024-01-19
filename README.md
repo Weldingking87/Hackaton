@@ -30,8 +30,15 @@ Follow us on social media for updates, challenges, and more!
 ## Spread the Word
 Help us make a difference! Share our [event flyer](https://drive.google.com/file/d/1JQyoTueS_1BIQp51jD6PYSmEirw1g-9m/view?usp=sharing) with your network.
 
+## Pass Achievements  
+https://hunthalloween.com/event/trunk-or-treat-eid4a7bicmojk
+https://www.mlive.com/news/ann-arbor/2022/06/farmers-market-takes-root-in-ypsilanti-townships-west-willow-neighborhood.html
+https://www.washtenawmarkets.org/west-willow-farmers-market
+https://www.secondwavemedia.com/concentrate/features/earnandlearn0639.aspx
+https://allevents.in/ypsilanti/trunk-or-treat/200023278524243
+https://stayhappening.com/e/west-willow-farmers-market-E3LUVIP6DQAM
+https://www.mlive.com/news/ann-arbor/2022/10/washtenaw-county-set-to-provide-32m-to-11-groups-tackling-housing-child-care-access.html
 ### Let's Hack for Change! 🌟
-
 ---
 
 # Frequently asked questions.
