@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
+title: Hacking Homelessness 
+description: Hacker is a theme for GitHub Pages.
 show_downloads: true
-thumbnail: https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png
+#google_analytics:
+theme: jekyll-theme-hacker
