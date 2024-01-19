@@ -16,21 +16,19 @@
 
 ## 🌐 Important Links
 - [**Register Now!**](https://docs.google.com/forms/d/e/1FAIpQLSeKOeZcLR47BoF6inKEPY5D_R6lpsUIg0NYzLKo59EXcWD3-Q/viewform?usp=sharing)
-- [**Sponsorship Prospectus**](https://drive.google.com/file/d/1lC_8NfxM532-Zh4uOux_7Ki37nj2KjMu/view?usp=drive_link)
+- [**Sponsorship Prospectus**](https://drive.google.com/file/d/1izZn9kRDcCj3gP_WuAzzlajKFzzuKrNA/view?usp=sharing)
 - [**Donate Now!**](insert_donorbox_donation_button_link_here)
-- [**Download Event Flyer**](https://drive.google.com/file/d/12XasNN1HPU8aUUl2KsvBWkMFrOrkwm5w/view?usp=sharing)
+- [**Download Event Flyer**](https://drive.google.com/file/d/1JQyoTueS_1BIQp51jD6PYSmEirw1g-9m/view?usp=sharing)
 
 ## Become a Sponsor
-Support innovation, talent, and community development. Check out our [Sponsorship Prospectus](insert_sponsorship_prospectus_link_here) for exciting opportunities!
+Support innovation, talent, and community development. Check out our [Sponsorship Prospectus](https://drive.google.com/file/d/1izZn9kRDcCj3gP_WuAzzlajKFzzuKrNA/view?usp=sharing) for exciting opportunities!
 
 ## Connect With Us
 Follow us on social media for updates, challenges, and more!
-- [Twitter](insert_twitter_link_here)
-- [Facebook](insert_facebook_link_here)
-- [LinkedIn](insert_linkedin_link_here)
+- [Facebook](https://www.facebook.com/2Marines/)
 
 ## Spread the Word
-Help us make a difference! Share our [event flyer](insert_flyer_download_link_here) with your network.
+Help us make a difference! Share our [event flyer](https://drive.google.com/file/d/1JQyoTueS_1BIQp51jD6PYSmEirw1g-9m/view?usp=sharing) with your network.
 
 ### Let's Hack for Change! 🌟
 
