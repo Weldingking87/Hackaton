@@ -43,13 +43,13 @@ Help us make a difference! Share our [event flyer](https://drive.google.com/file
 - Washtenaw County Health Department - Netravene - Fed UP ministries - Food Gathers - Friends in Deed 
 
 ## Pass Achievements  
-- https://hunthalloween.com/event/trunk-or-treat-eid4a7bicmojk
-- https://www.mlive.com/news/ann-arbor/2022/06/farmers-market-takes-root-in-ypsilanti-townships-west-willow-neighborhood.html
-- https://www.washtenawmarkets.org/west-willow-farmers-market
-- https://www.secondwavemedia.com/concentrate/features/earnandlearn0639.aspx
-- https://allevents.in/ypsilanti/trunk-or-treat/200023278524243
-- https://stayhappening.com/e/west-willow-farmers-market-E3LUVIP6DQAM
-- https://www.mlive.com/news/ann-arbor/2022/10/washtenaw-county-set-to-provide-32m-to-11-groups-tackling-housing-child-care-access.html
+- (https://hunthalloween.com/event/trunk-or-treat-eid4a7bicmojk)
+- (https://www.mlive.com/news/ann-arbor/2022/06/farmers-market-takes-root-in-ypsilanti-townships-west-willow-neighborhood.html)
+- (https://www.washtenawmarkets.org/west-willow-farmers-market)
+- (https://www.secondwavemedia.com/concentrate/features/earnandlearn0639.aspx)
+- (https://allevents.in/ypsilanti/trunk-or-treat/200023278524243)
+- (https://stayhappening.com/e/west-willow-farmers-market-E3LUVIP6DQAM)
+- (https://www.mlive.com/news/ann-arbor/2022/10/washtenaw-county-set-to-provide-32m-to-11-groups-tackling-housing-child-care-access.html)
 
 ### Let's Hack for Change! 🌟
 ---
@@ -72,7 +72,7 @@ faq:
       The event is being hosted at 3200 Boardwalk St Ann Arbor, MI 48108.
   - question: "Is there a code of conduct?"
     answer: >
-      Yes there is. We enforce it very strongly. You can [find it here](https://docs.google.com/document/d/1XhHb-IlvWUVNZQPaW57WnmME4l5XWYc2KIfBLczVJjA/edit?usp=sharing).
+      Yes, there is. We enforce it very strongly. You can [find it here](https://docs.google.com/document/d/1XhHb-IlvWUVNZQPaW57WnmME4l5XWYc2KIfBLczVJjA/edit?usp=sharing).
 
 # This is the message you'll receive once you've registered.
 register:
