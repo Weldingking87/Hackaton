@@ -72,7 +72,7 @@ faq:
       The event is being hosted at 3200 Boardwalk St Ann Arbor, MI 48108.
   - question: "Is there a code of conduct?"
     answer: >
-      Yes, there is. We enforce it very strongly. You can [find it here](https://docs.google.com/document/d/1XhHb-IlvWUVNZQPaW57WnmME4l5XWYc2KIfBLczVJjA/edit?usp=sharing).
+      Yes, there is. We enforce it very strongly. You can [find it here](https://drive.google.com/file/d/1aJKEbSUEmJsc4QsVcb5HiJR5dBTGth8t/view?usp=sharing).
 
 # This is the message you'll receive once you've registered.
 register:
