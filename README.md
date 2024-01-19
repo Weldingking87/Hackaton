@@ -43,13 +43,13 @@ Help us make a difference! Share our [event flyer](https://drive.google.com/file
 - Washtenaw County Health Department - Netravene - Fed UP ministries - Food Gathers - Friends in Deed 
 
 ## Pass Achievements  
-- (https://hunthalloween.com/event/trunk-or-treat-eid4a7bicmojk)
-- (https://www.mlive.com/news/ann-arbor/2022/06/farmers-market-takes-root-in-ypsilanti-townships-west-willow-neighborhood.html)
-- (https://www.washtenawmarkets.org/west-willow-farmers-market)
-- (https://www.secondwavemedia.com/concentrate/features/earnandlearn0639.aspx)
-- (https://allevents.in/ypsilanti/trunk-or-treat/200023278524243)
-- (https://stayhappening.com/e/west-willow-farmers-market-E3LUVIP6DQAM)
-- (https://www.mlive.com/news/ann-arbor/2022/10/washtenaw-county-set-to-provide-32m-to-11-groups-tackling-housing-child-care-access.html)
+- [Artical 1](https://hunthalloween.com/event/trunk-or-treat-eid4a7bicmojk)
+- [Artical 2](https://www.mlive.com/news/ann-arbor/2022/06/farmers-market-takes-root-in-ypsilanti-townships-west-willow-neighborhood.html)
+- [Artical 3](https://www.washtenawmarkets.org/west-willow-farmers-market)
+- [Artical 4](https://www.secondwavemedia.com/concentrate/features/earnandlearn0639.aspx)
+- [Artical 5](https://allevents.in/ypsilanti/trunk-or-treat/200023278524243)
+- [Artical 6](https://stayhappening.com/e/west-willow-farmers-market-E3LUVIP6DQAM)
+- [Artical 7](https://www.mlive.com/news/ann-arbor/2022/10/washtenaw-county-set-to-provide-32m-to-11-groups-tackling-housing-child-care-access.html)
 
 ### Let's Hack for Change! 🌟
 ---
@@ -59,7 +59,7 @@ faq:
   - question: "What is a hackathon?"
     answer: >
       A hackathon is an invention marathon. Students come together to build cool
-      software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+      software & hardware hacks over 24-48 hours. It's [very beginner-friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
   - question: "How much does it cost?"
     answer: >
       Nothing. Attending a hackathon is free.
