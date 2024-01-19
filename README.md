@@ -12,6 +12,7 @@
 
 ## Event Details
 - **Date:** February 16th 5pm to 18th 12pm, 2024
+- - **Age:** 18+
 - **Location:** 3200 Boardwalk St Ann Arbor, MI 48108/Online
 
 ## 🌐 Important Links
