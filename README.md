@@ -34,7 +34,7 @@ Help us make a difference! Share our [event flyer](https://drive.google.com/file
 - MPHI Capacity Building Grant
 - MVAA Homelessness Grant (https://drive.google.com/file/d/1aWuYuv1vTb9uOppIPFegCBN_tlvWSTsi/view?usp=sharing)
 
-##Pass Grants
+## Pass Grants
 - Washtenaw County Community Priority Fund https://drive.google.com/file/d/15SKBv6wF9meb0IK-Ljj8z_VA0avQpHvU/view?usp=sharing
 
 ## Community Partners 
