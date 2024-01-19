@@ -76,4 +76,4 @@ faq:
 # This is the message you'll receive once you've registered.
 register:
   message: 
-    Look OUt for a follow-up email with all your event details.
+    Look out for a follow-up email with all your event details.
