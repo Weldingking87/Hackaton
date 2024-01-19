@@ -75,7 +75,7 @@ faq:
       We work with over 200 Member Events and empower over 70,000 students every year.
   - question: "Is there a code of conduct?"
     answer: >
-      Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+      Yes there is. We enforce it very strongly. You can [find it here](https://docs.google.com/document/d/1XhHb-IlvWUVNZQPaW57WnmME4l5XWYc2KIfBLczVJjA/edit?usp=sharing).
 
 # This is the message you'll receive once you've registered.
 register:
